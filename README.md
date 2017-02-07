@@ -2,6 +2,8 @@
 
 > Function expressions, declarations, and arguments
 
+https://travis-ci.org/helio-training/fs-corejs-functions-basics.svg?branch=solutions
+
 
 ## Introduction
 
