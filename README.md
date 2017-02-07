@@ -2,6 +2,7 @@
 
 > Function expressions, declarations, and arguments
 
+[![Build Status](https://travis-ci.org/helio-training/fs-corejs-functions-basics.svg?branch=solutions)](https://travis-ci.org/helio-training/fs-corejs-functions-basics)
 
 ## Introduction
 
