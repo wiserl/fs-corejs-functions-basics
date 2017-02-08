@@ -56,7 +56,7 @@ const say = () => {
 }
 ```
 
-Arrow functions cn additionally tidy up the functions by removing the curly braces when the function is a simple one liner.  The code will return the expression after the arrow.
+Arrow functions can additionally tidy up the functions by removing the curly braces when the function is a simple one liner.  The code will return the expression after the arrow.
 
 ```js
 const say = () => 'Hello';
